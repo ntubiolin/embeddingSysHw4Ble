@@ -1,1 +1,1 @@
-https://github.com/shex2016/embeddingSysHw4Ble/tree/master/hw3_i2c
+https://github.com/shex2016/embeddingSysHw4Ble/
