@@ -6,7 +6,7 @@ bus = smbus.SMBus(1)
 
 # ADXL345 address, 0x53(83)
 # Select bandwidth rate register, 0x2C(44)
-#     0x0A(10) Normal mode, Output data rate = 100 Hz
+#     0x0A(10) Normal mode, Output data rate = 200 Hz
 bus.write_byte_data(0x53, 0x2C, 0x14)
 # ADXL345 address, 0x53(83)
 # Select power control register, 0x2D(45)
