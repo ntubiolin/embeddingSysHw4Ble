@@ -24,7 +24,7 @@ this homework was implemented in Node language!!!
 	
 	2. the terminal output of rpi-peripheral would be something like this:
 	
-	> >>> Initializing adxlC2PCharacteristic
+	> Initializing adxlC2PCharacteristic
 	> Found ADXL345 device id 0xe5 on bus i2c-1, address 0x53
 	> ADXL345 initialization succeeded
 	> advertising...
